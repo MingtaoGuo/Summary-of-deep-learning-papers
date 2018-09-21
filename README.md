@@ -42,5 +42,23 @@ Summarize some interesting paper about computer vision
 
 ### Activation functions
 
+:star: (ReLU)[Rectified linear units improve restricted boltzmann machines] [[Paper](http://www.cs.utoronto.ca/~hinton/absps/reluICML.pdf)]
+
+:star: (Leaky ReLU)[Rectifier Nonlinearities Improve Neural Network Acoustic Models] [[Paper](http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)]
+
+:star: (eLU)[Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)] [[Paper](http://cn.arxiv.org/pdf/1511.07289v5)]
+
+:star: (SeLU)[Self-Normalizing Neural Networks] [[Paper](http://cn.arxiv.org/pdf/1706.02515)]
+
+:star: (PReLU)[Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification] [[Paper](http://cn.arxiv.org/pdf/1502.01852v1)]
+
+:star: (Swish)[Searching for Activation Functions] [[Paper](https://arxiv.org/pdf/1710.05941.pdf)]
+
+
+
+
+
+
+
 
 
