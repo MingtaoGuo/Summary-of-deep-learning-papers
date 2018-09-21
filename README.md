@@ -87,7 +87,7 @@ Summarize some interesting paper about computer vision
 :blossom: (Relativistic GAN)[The relativistic discriminator: a key element missing from standard GAN] [[Paper](http://cn.arxiv.org/pdf/1807.00734.pdf)]
 
 
-
+## To be continued.
 
 
 
