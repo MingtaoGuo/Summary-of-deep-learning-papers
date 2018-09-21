@@ -54,6 +54,49 @@ Summarize some interesting paper about computer vision
 
 :star: (Swish)[Searching for Activation Functions] [[Paper](https://arxiv.org/pdf/1710.05941.pdf)]
 
+### Generative Adversarial Networks Theory
+
+:blossom: (GAN)[Generative adversarial nets] [[Paper](http://cn.arxiv.org/pdf/1406.2661)]
+
+:blossom: (cGAN)[Conditional Generative Adversarial Nets] [[Paper](http://cn.arxiv.org/pdf/1411.1784)]
+
+:blossom: (DCGAN)[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1511.06434)]
+
+:blossom: (LAPGAN)[Deep generative image models using a Laplacian pyramid of adversarial networks] [[Paper](http://cn.arxiv.org/pdf/1506.05751v1)]
+
+:blossom: (Semi-Supervised GAN)[Improved Techniques for Training GANs] [[Paper](http://cn.arxiv.org/pdf/1606.03498)]
+
+:blossom: (Info GAN)[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets] [[Paper](http://cn.arxiv.org/pdf/1606.03657v1)]
+
+:blossom: (LSGAN)[Least Squares Generative Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf)]
+
+:blossom: (WGAN)[Wasserstein Generative Adversarial Networks] [[Paper](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf)]
+
+:blossom: (WGAN-GP)[Improved Training of Wasserstein GANs] [[Paper](http://cn.arxiv.org/pdf/1704.00028v3)]
+
+:blossom: (EBGAN)[Energy-based Generative Adversarial Network] [[Paper](http://cn.arxiv.org/pdf/1609.03126)]
+
+:blossom: (BEGAN)[BEGAN: Boundary Equilibrium Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1703.10717v4)]
+
+:blossom: (PG-GAN)[Progressive Growing of GANs for Improved Quality, Stability, and Variation] [[Paper](http://cn.arxiv.org/pdf/1710.10196v3)]
+
+:blossom: (SNGAN)[Spectral Normalization for Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1802.05957)]
+
+:blossom: (DRAGAN)[On Convergence and Stability of GANs] [[Paper](http://cn.arxiv.org/pdf/1705.07215v5)]
+
+:blossom: (Relativistic GAN)[The relativistic discriminator: a key element missing from standard GAN] [[Paper](http://cn.arxiv.org/pdf/1807.00734.pdf)]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
