@@ -38,6 +38,9 @@ Summarize some interesting paper about computer vision
 
 :moon: (Group Normalization)[Group Normalization] [[Paper](https://arxiv.org/pdf/1803.08494.pdf)]
 
-:moon: (Group Normalization)[Group Normalization] [[Paper](https://arxiv.org/pdf/1803.08494.pdf)]
+:moon: (Switchable Normalization)[Differentiable Learning-to-Normalize via Switchable Normalization] [[Paper](https://arxiv.org/pdf/1806.10779.pdf)]
+
+### Activation functions
+
 
 
