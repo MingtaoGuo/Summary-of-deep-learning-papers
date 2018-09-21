@@ -139,6 +139,9 @@ Summarize some interesting paper about computer vision
 :whale: [Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Multimodal_Transfer_A_CVPR_2017_paper.pdf)]
 
 :whale: [StyleBank: An Explicit Representation for Neural Image Style Transfer] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_StyleBank_An_Explicit_CVPR_2017_paper.pdf)]
+
+:whale: [CartoonGAN: generative adversarial networks for photo cartoonization] [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)]
+
 ### Face Attribution Manipulation
 :alien: [Deep Feature Interpolation for Image Content Changes] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Upchurch_Deep_Feature_Interpolation_CVPR_2017_paper.pdf)]
 
@@ -152,23 +155,16 @@ Summarize some interesting paper about computer vision
 
 :alien: (StarGAN)[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper](http://cn.arxiv.org/pdf/1711.09020)]
 ### Image Inpainting
+:eyes: [Context Encoders: Feature Learning by Inpainting] [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf)]
+
+:eyes: [Semantic Image Inpainting with Deep Generative Models] [[Paper](http://cn.arxiv.org/pdf/1607.07539)]
+
+:eyes: [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_High-Resolution_Image_Inpainting_CVPR_2017_paper.pdf)]
+
+:eyes: [Globally and locally consistent image completion] [[Paper](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)]
+
+:eyes: [Generative Image Inpainting with Contextual Attention] [[Paper](http://cn.arxiv.org/pdf/1801.07892v2)]
 
 
 ## To be continued.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
