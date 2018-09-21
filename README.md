@@ -28,5 +28,16 @@ Summarize some interesting paper about computer vision
 
 :sunny: (SENet)[Squeeze-and-Excitation Networks] [[Paper](http://cn.arxiv.org/pdf/1709.01507)]
 
+### Normalization methods
+
+:moon: (Batch Normalization)[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift] [[Paper](http://cn.arxiv.org/pdf/1502.03167v3)]
+
+:moon: (Instance Normalization)[Instance Normalization: The Missing Ingredient for Fast Stylization] [[Paper](http://cn.arxiv.org/pdf/1607.08022v3)]
+
+:moon: (Layer Normalization)[Layer Normalization] [[Paper](https://arxiv.org/pdf/1607.06450v1.pdf)]
+
+:moon: (Group Normalization)[Group Normalization] [[Paper](https://arxiv.org/pdf/1803.08494.pdf)]
+
+:moon: (Group Normalization)[Group Normalization] [[Paper](https://arxiv.org/pdf/1803.08494.pdf)]
 
 
