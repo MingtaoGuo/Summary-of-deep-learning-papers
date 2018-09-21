@@ -140,8 +140,6 @@ Summarize some interesting paper about computer vision
 
 :whale: [StyleBank: An Explicit Representation for Neural Image Style Transfer] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_StyleBank_An_Explicit_CVPR_2017_paper.pdf)]
 
-:whale: [StyleBank: An Explicit Representation for Neural Image Style Transfer] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_StyleBank_An_Explicit_CVPR_2017_paper.pdf)]
-
 ## To be continued.
 
 
