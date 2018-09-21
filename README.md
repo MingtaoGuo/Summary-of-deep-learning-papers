@@ -111,6 +111,36 @@ Summarize some interesting paper about computer vision
 
 :bug: (RecycleGAN)[Recycle-GAN: Unsupervised Video Retargeting] [[Paper](http://cn.arxiv.org/pdf/1808.05174v1)]
 
+### Style Transfer
+:whale: (Gatys)[A Neural Algorithm of Artistic Style] [[Paper](http://cn.arxiv.org/pdf/1508.06576)]
+
+:whale: (Johnson)[Perceptual Losses for Real-Time Style Transfer and Super-Resolution] [[Paper](http://cn.arxiv.org/pdf/1603.08155)]
+
+:whale: [Universal Style Transfer via Feature Transforms] [[Paper](http://cn.arxiv.org/pdf/1705.08086)]
+
+:whale: [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization] [[Paper](http://cn.arxiv.org/pdf/1703.06868)]
+
+:whale: [Visual attribute transfer through deep image analogy] [[Paper](http://cn.arxiv.org/pdf/1705.01088)]
+
+:whale: [Arbitrary Style Transfer with Deep Feature Reshuffle] [[Paper](http://cn.arxiv.org/pdf/1805.04103)]
+
+:whale: [Artistic style transfer for videos] [[Paper](http://cn.arxiv.org/pdf/1604.08610.pdf)]
+
+:whale: [Characterizing and Improving Stability in Neural Style Transfer] [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gupta_Characterizing_and_Improving_ICCV_2017_paper.pdf)]
+
+:whale: [Controlling Perceptual Factors in Neural Style Transfer] [[Paper](http://cn.arxiv.org/pdf/1611.07865)]
+
+:whale: [Deep Photo Style Transfer] [[Paper](http://cn.arxiv.org/pdf/1703.07511)]
+
+:whale: [Fast Patch-based Style Transfer of Arbitrary Style] [[Paper](http://cn.arxiv.org/pdf/1612.04337.pdf)]
+
+:whale: [Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ulyanov_Improved_Texture_Networks_CVPR_2017_paper.pdf)]
+
+:whale: [Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Multimodal_Transfer_A_CVPR_2017_paper.pdf)]
+
+:whale: [StyleBank: An Explicit Representation for Neural Image Style Transfer] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_StyleBank_An_Explicit_CVPR_2017_paper.pdf)]
+
+:whale: [StyleBank: An Explicit Representation for Neural Image Style Transfer] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_StyleBank_An_Explicit_CVPR_2017_paper.pdf)]
 
 ## To be continued.
 
