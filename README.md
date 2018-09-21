@@ -1,7 +1,7 @@
 # Summary of deep learning papers
 Summarize some interesting paper about computer vision
 
-### Image classification methods
+### Image Classification Methods
 :sunny: (LeNet)[Gradient-based learning applied to document recognition] [[Paper](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)]
 
 :sunny: (AlexNet)[ImageNet Classification with Deep Convolutional Neural Networks] [[Paper](http://xanadu.cs.sjsu.edu/~drtylin/classes/cs267_old/ImageNet%20DNN%20NIPS2012(2).pdf)]
@@ -28,7 +28,7 @@ Summarize some interesting paper about computer vision
 
 :sunny: (SENet)[Squeeze-and-Excitation Networks] [[Paper](http://cn.arxiv.org/pdf/1709.01507)]
 
-### Normalization methods
+### Normalization Methods
 
 :moon: (Batch Normalization)[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift] [[Paper](http://cn.arxiv.org/pdf/1502.03167v3)]
 
@@ -40,7 +40,7 @@ Summarize some interesting paper about computer vision
 
 :moon: (Switchable Normalization)[Differentiable Learning-to-Normalize via Switchable Normalization] [[Paper](https://arxiv.org/pdf/1806.10779.pdf)]
 
-### Activation functions
+### Activation Functions
 
 :star: (ReLU)[Rectified linear units improve restricted boltzmann machines] [[Paper](http://www.cs.utoronto.ca/~hinton/absps/reluICML.pdf)]
 
