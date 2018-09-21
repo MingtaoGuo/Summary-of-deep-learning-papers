@@ -1,4 +1,4 @@
-# Interesting_DeepLearning_Paper
+# Summary of deep learning papers
 Summarize some interesting paper about computer vision
 
 ### Image classification methods
