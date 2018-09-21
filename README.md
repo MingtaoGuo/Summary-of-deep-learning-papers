@@ -44,6 +44,8 @@ Summarize some interesting paper about computer vision
 
 :star: (ReLU)[Rectified linear units improve restricted boltzmann machines] [[Paper](http://www.cs.utoronto.ca/~hinton/absps/reluICML.pdf)]
 
+:star: (Noisy ReLU)[Deep Belief Networks on CIFAR-10] [[Paper](http://www.cs.utoronto.ca/~kriz/conv-cifar10-aug2010.pdfConvolutional)]
+
 :star: (Leaky ReLU)[Rectifier Nonlinearities Improve Neural Network Acoustic Models] [[Paper](http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)]
 
 :star: (eLU)[Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)] [[Paper](http://cn.arxiv.org/pdf/1511.07289v5)]
@@ -51,6 +53,8 @@ Summarize some interesting paper about computer vision
 :star: (SeLU)[Self-Normalizing Neural Networks] [[Paper](http://cn.arxiv.org/pdf/1706.02515)]
 
 :star: (PReLU)[Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification] [[Paper](http://cn.arxiv.org/pdf/1502.01852v1)]
+
+:star: (Maxout)[Maxout Networks] [[Paper](http://cn.arxiv.org/pdf/1302.4389v4)]
 
 :star: (Swish)[Searching for Activation Functions] [[Paper](https://arxiv.org/pdf/1710.05941.pdf)]
 
