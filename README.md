@@ -90,6 +90,19 @@ Summarize some interesting paper about computer vision
 
 :blossom: (Relativistic GAN)[The relativistic discriminator: a key element missing from standard GAN] [[Paper](http://cn.arxiv.org/pdf/1807.00734.pdf)]
 
+### Image-to-Image Translation
+:bug: (pix2pix)[Image-to-Image Translation with Conditional Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)]
+
+:bug: (pix2pixHD)[High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper](http://cn.arxiv.org/pdf/1711.11585)]
+
+:bug: (CycleGAN)[Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)]
+
+:bug: [Unsupervised Attention-guided Image to Image Translation] [[Paper](http://cn.arxiv.org/pdf/1806.02311)]
+
+:bug: (DiscoGAN)[Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1703.05192)]
+
+:bug: (UNIT)[Unsupervised Image-to-Image Translation Networks] [[Paper](http://papers.nips.cc/paper/6672-unsupervised-image-to-image-translation-networks.pdf)]
+
 
 ## To be continued.
 
