@@ -103,6 +103,14 @@ Summarize some interesting paper about computer vision
 
 :bug: (UNIT)[Unsupervised Image-to-Image Translation Networks] [[Paper](http://papers.nips.cc/paper/6672-unsupervised-image-to-image-translation-networks.pdf)]
 
+:bug: (MUNIT)[Multimodal Unsupervised Image-to-Image Translation] [[Paper](https://arxiv.org/pdf/1804.04732.pdf)]
+
+:bug: (BicycleGAN)[Toward Multimodal Image-to-Image Translation] [[Paper](http://cn.arxiv.org/pdf/1711.11586)]
+
+:bug: (StarGAN)[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper](http://cn.arxiv.org/pdf/1711.09020)]
+
+:bug: (RecycleGAN)[Recycle-GAN: Unsupervised Video Retargeting] [[Paper](http://cn.arxiv.org/pdf/1808.05174v1)]
+
 
 ## To be continued.
 
