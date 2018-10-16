@@ -142,6 +142,8 @@ Summarize some interesting paper about computer vision
 
 :whale: [CartoonGAN: generative adversarial networks for photo cartoonization] [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)]
 
+:whale: [Visual Attribute Transfer through Deep Image Analogy] [[Paper](http://cn.arxiv.org/pdf/1705.01088)]
+
 ### Face Attribute Manipulation
 :alien: [Deep Feature Interpolation for Image Content Changes] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Upchurch_Deep_Feature_Interpolation_CVPR_2017_paper.pdf)]
 
