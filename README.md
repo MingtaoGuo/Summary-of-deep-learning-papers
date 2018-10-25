@@ -6,7 +6,7 @@ Summarize some interesting paper about computer vision
 
 :sunny: (AlexNet)[ImageNet Classification with Deep Convolutional Neural Networks] [NIPS 2012][[Paper](http://xanadu.cs.sjsu.edu/~drtylin/classes/cs267_old/ImageNet%20DNN%20NIPS2012(2).pdf)][[Code](https://github.com/hjptriplebee/AlexNet_with_tensorflow)]
 
-:sunny: (VGGNet)[Very Deep Convolutional Networks for Large-Scale Image Recognition] [[Paper](http://cn.arxiv.org/pdf/1409.1556v6)][[Code](https://github.com/machrisaa/tensorflow-vgg)]
+:sunny: (VGGNet)[Very Deep Convolutional Networks for Large-Scale Image Recognition] [ARXIV][[Paper](http://cn.arxiv.org/pdf/1409.1556v6)][[Code](https://github.com/machrisaa/tensorflow-vgg)]
 
 :sunny: (GoogLeNet)[Going deeper with convolutions] [CVPR 2015][[Paper](http://cn.arxiv.org/pdf/1409.4842v1)][[Code](https://github.com/conan7882/GoogLeNet-Inception-tf)]
 
@@ -30,7 +30,7 @@ Summarize some interesting paper about computer vision
 
 ### Normalization Methods
 
-:moon: (Batch Normalization)[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift] [[Paper](http://cn.arxiv.org/pdf/1502.03167v3)]
+:moon: (Batch Normalization)[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift] [ICML][[Paper](http://cn.arxiv.org/pdf/1502.03167v3)]
 
 :moon: (Instance Normalization)[Instance Normalization: The Missing Ingredient for Fast Stylization] [[Paper](http://cn.arxiv.org/pdf/1607.08022v3)]
 
@@ -39,6 +39,8 @@ Summarize some interesting paper about computer vision
 :moon: (Group Normalization)[Group Normalization] [[Paper](https://arxiv.org/pdf/1803.08494.pdf)]
 
 :moon: (Switchable Normalization)[Differentiable Learning-to-Normalize via Switchable Normalization] [[Paper](https://arxiv.org/pdf/1806.10779.pdf)]
+
+:moon: (Instance-Batch Normalization)[Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net] [[Paper](https://arxiv.org/pdf/1807.09441.pdf)][[Code](https://github.com/XingangPan/IBN-Net)]
 
 ### Activation Functions
 
