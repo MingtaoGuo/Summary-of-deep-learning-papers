@@ -90,6 +90,10 @@ Summarize some interesting paper about computer vision
 
 :blossom: (Relativistic GAN)[The relativistic discriminator: a key element missing from standard GAN] [[Paper](http://cn.arxiv.org/pdf/1807.00734.pdf)]
 
+:blossom: (cGAN with projection disc)[cGANs with projection discriminator] [[Paper](https://arxiv.org/pdf/1802.05637.pdf)]
+
+:blossom: (BigGAN)[Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper](https://arxiv.org/pdf/1809.11096.pdf)]
+
 ### Image-to-Image Translation
 :bug: (pix2pix)[Image-to-Image Translation with Conditional Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)]
 
@@ -143,6 +147,8 @@ Summarize some interesting paper about computer vision
 :whale: [CartoonGAN: generative adversarial networks for photo cartoonization] [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)]
 
 :whale: [Visual Attribute Transfer through Deep Image Analogy] [[Paper](http://cn.arxiv.org/pdf/1705.01088)]
+
+:whale: [A learned representation for artistic style] [[Paper](https://arxiv.org/pdf/1610.07629.pdf)]
 
 ### Face Attribute Manipulation
 :alien: [Deep Feature Interpolation for Image Content Changes] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Upchurch_Deep_Feature_Interpolation_CVPR_2017_paper.pdf)]
