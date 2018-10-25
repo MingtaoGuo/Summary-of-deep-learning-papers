@@ -6,7 +6,7 @@ Summarize some interesting paper about computer vision
 
 :sunny: (AlexNet)[ImageNet Classification with Deep Convolutional Neural Networks] [NIPS 2012][[Paper](http://xanadu.cs.sjsu.edu/~drtylin/classes/cs267_old/ImageNet%20DNN%20NIPS2012(2).pdf)][[Code](https://github.com/hjptriplebee/AlexNet_with_tensorflow)]
 
-:sunny: (VGGNet)[Very Deep Convolutional Networks for Large-Scale Image Recognition] [ARXIV][[Paper](http://cn.arxiv.org/pdf/1409.1556v6)][[Code](https://github.com/machrisaa/tensorflow-vgg)]
+:sunny: (VGGNet)[Very Deep Convolutional Networks for Large-Scale Image Recognition] [arXiv][[Paper](http://cn.arxiv.org/pdf/1409.1556v6)][[Code](https://github.com/machrisaa/tensorflow-vgg)]
 
 :sunny: (GoogLeNet)[Going deeper with convolutions] [CVPR 2015][[Paper](http://cn.arxiv.org/pdf/1409.4842v1)][[Code](https://github.com/conan7882/GoogLeNet-Inception-tf)]
 
@@ -22,9 +22,9 @@ Summarize some interesting paper about computer vision
 
 :sunny: (Xception)[Xception: Deep Learning with Depthwise Separable Convolutions] [CVPR 2017][[Paper](http://cn.arxiv.org/pdf/1610.02357v3)][[Code](https://github.com/kwotsin/TensorFlow-Xception)]
 
-:sunny: (ShuffleNet)[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices] [ARXIV][[Paper](http://cn.arxiv.org/pdf/1707.01083v2)][[Code](https://github.com/MG2033/ShuffleNet)]
+:sunny: (ShuffleNet)[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices] [arXiv][[Paper](http://cn.arxiv.org/pdf/1707.01083v2)][[Code](https://github.com/MG2033/ShuffleNet)]
 
-:sunny: (MobileNets)[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications] [ARXIV][[Paper](http://cn.arxiv.org/pdf/1704.04861v1)][[Code](https://github.com/Zehaos/MobileNet)]
+:sunny: (MobileNets)[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications] [arXiv][[Paper](http://cn.arxiv.org/pdf/1704.04861v1)][[Code](https://github.com/Zehaos/MobileNet)]
 
 :sunny: (SENet)[Squeeze-and-Excitation Networks] [CVPR 2018][[Paper](http://cn.arxiv.org/pdf/1709.01507)][[Code](https://github.com/taki0112/SENet-Tensorflow)]
 
@@ -38,63 +38,63 @@ Summarize some interesting paper about computer vision
 
 :moon: (Group Normalization)[Group Normalization] [arXiv][[Paper](https://arxiv.org/pdf/1803.08494.pdf)][[Code](https://github.com/shaohua0116/Group-Normalization-Tensorflow)]
 
-:moon: (Switchable Normalization)[Differentiable Learning-to-Normalize via Switchable Normalization] [[Paper](https://arxiv.org/pdf/1806.10779.pdf)][[Code](https://github.com/taki0112/Switchable_Normalization-Tensorflow)]
+:moon: (Switchable Normalization)[Differentiable Learning-to-Normalize via Switchable Normalization] [arXiv][[Paper](https://arxiv.org/pdf/1806.10779.pdf)][[Code](https://github.com/taki0112/Switchable_Normalization-Tensorflow)]
 
-:moon: (Instance-Batch Normalization)[Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net] [[Paper](https://arxiv.org/pdf/1807.09441.pdf)][[Code](https://github.com/XingangPan/IBN-Net)]
+:moon: (Instance-Batch Normalization)[Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net] [arXiv][[Paper](https://arxiv.org/pdf/1807.09441.pdf)][[Code](https://github.com/XingangPan/IBN-Net)]
 
 ### Activation Functions
 
-:star: (ReLU)[Rectified linear units improve restricted boltzmann machines] [[Paper](http://www.cs.utoronto.ca/~hinton/absps/reluICML.pdf)]
+:star: (ReLU)[Rectified linear units improve restricted boltzmann machines] [ICML][[Paper](http://www.cs.utoronto.ca/~hinton/absps/reluICML.pdf)]
 
-:star: (Noisy ReLU)[Deep Belief Networks on CIFAR-10] [[Paper](http://www.cs.utoronto.ca/~kriz/conv-cifar10-aug2010.pdfConvolutional)]
+:star: (Noisy ReLU)[Deep Belief Networks on CIFAR-10] [arXiv][[Paper](http://www.cs.utoronto.ca/~kriz/conv-cifar10-aug2010.pdfConvolutional)]
 
-:star: (Leaky ReLU)[Rectifier Nonlinearities Improve Neural Network Acoustic Models] [[Paper](http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)]
+:star: (Leaky ReLU)[Rectifier Nonlinearities Improve Neural Network Acoustic Models] [ICML 2013][[Paper](http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)]
 
-:star: (eLU)[Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)] [[Paper](http://cn.arxiv.org/pdf/1511.07289v5)]
+:star: (eLU)[Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)] [arXiv][[Paper](http://cn.arxiv.org/pdf/1511.07289v5)]
 
-:star: (SeLU)[Self-Normalizing Neural Networks] [[Paper](http://cn.arxiv.org/pdf/1706.02515)][[Code](https://github.com/dannysdeng/selu)]
+:star: (SeLU)[Self-Normalizing Neural Networks] [NIPS 2017][[Paper](http://cn.arxiv.org/pdf/1706.02515)][[Code](https://github.com/dannysdeng/selu)]
 
-:star: (PReLU)[Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification] [[Paper](http://cn.arxiv.org/pdf/1502.01852v1)]
+:star: (PReLU)[Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification] [ICCV 2015][[Paper](http://cn.arxiv.org/pdf/1502.01852v1)]
 
-:star: (Maxout)[Maxout Networks] [[Paper](http://cn.arxiv.org/pdf/1302.4389v4)]
+:star: (Maxout)[Maxout Networks] [JMLR 2013][[Paper](http://cn.arxiv.org/pdf/1302.4389v4)]
 
-:star: (Swish)[Searching for Activation Functions] [[Paper](https://arxiv.org/pdf/1710.05941.pdf)]
+:star: (Swish)[Searching for Activation Functions] [arXiv][[Paper](https://arxiv.org/pdf/1710.05941.pdf)]
 
 ### Generative Adversarial Networks Theory
 
-:blossom: (GAN)[Generative adversarial nets] [[Paper](http://cn.arxiv.org/pdf/1406.2661)]
+:blossom: (GAN)[Generative adversarial nets] [NIPS 2014][[Paper](http://cn.arxiv.org/pdf/1406.2661)][[Code](https://github.com/goodfeli/adversarial)]
 
-:blossom: (cGAN)[Conditional Generative Adversarial Nets] [[Paper](http://cn.arxiv.org/pdf/1411.1784)]
+:blossom: (cGAN)[Conditional Generative Adversarial Nets] [arXiv][[Paper](http://cn.arxiv.org/pdf/1411.1784)][[Code](https://github.com/YadiraF/GAN)]
 
-:blossom: (DCGAN)[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1511.06434)]
+:blossom: (DCGAN)[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [arXiv][[Paper](http://cn.arxiv.org/pdf/1511.06434)][[Code](https://github.com/MingtaoGuo/DCGAN_WGAN_WGAN-GP_LSGAN_SNGAN_RSGAN_RaSGAN_TensorFlow)]
 
-:blossom: (LAPGAN)[Deep generative image models using a Laplacian pyramid of adversarial networks] [[Paper](http://cn.arxiv.org/pdf/1506.05751v1)]
+:blossom: (LAPGAN)[Deep generative image models using a Laplacian pyramid of adversarial networks] [NIPS 2015][[Paper](http://cn.arxiv.org/pdf/1506.05751v1)][[Code](https://github.com/AaronYALai/Generative_Adversarial_Networks_PyTorch)]
 
-:blossom: (Semi-Supervised GAN)[Improved Techniques for Training GANs] [[Paper](http://cn.arxiv.org/pdf/1606.03498)]
+:blossom: (Semi-Supervised GAN)[Improved Techniques for Training GANs] [NIPS 2016][[Paper](http://cn.arxiv.org/pdf/1606.03498)][[Code](https://github.com/LDOUBLEV/semi-supervised-GAN)]
 
-:blossom: (Info GAN)[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets] [[Paper](http://cn.arxiv.org/pdf/1606.03657v1)]
+:blossom: (Info GAN)[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets] [NIPS 2016][[Paper](http://cn.arxiv.org/pdf/1606.03657v1)][[Code](https://github.com/JonathanRaiman/tensorflow-infogan)]
 
-:blossom: (LSGAN)[Least Squares Generative Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf)]
+:blossom: (LSGAN)[Least Squares Generative Adversarial Networks] [ICCV 2017][[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf)][[Code](https://github.com/MingtaoGuo/DCGAN_WGAN_WGAN-GP_LSGAN_SNGAN_RSGAN_RaSGAN_TensorFlow)]
 
-:blossom: (WGAN)[Wasserstein Generative Adversarial Networks] [[Paper](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf)]
+:blossom: (WGAN)[Wasserstein Generative Adversarial Networks] [ICML 2017][[Paper](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf)][[Code](https://github.com/jiamings/wgan)]
 
-:blossom: (WGAN-GP)[Improved Training of Wasserstein GANs] [[Paper](http://cn.arxiv.org/pdf/1704.00028v3)]
+:blossom: (WGAN-GP)[Improved Training of Wasserstein GANs] [NIPS 2017][[Paper](http://cn.arxiv.org/pdf/1704.00028v3)][[Code](https://github.com/MingtaoGuo/DCGAN_WGAN_WGAN-GP_LSGAN_SNGAN_RSGAN_RaSGAN_TensorFlow)]
 
-:blossom: (EBGAN)[Energy-based Generative Adversarial Network] [[Paper](http://cn.arxiv.org/pdf/1609.03126)]
+:blossom: (EBGAN)[Energy-based Generative Adversarial Network] [arXiv][[Paper](http://cn.arxiv.org/pdf/1609.03126)][[Code](https://github.com/buriburisuri/ebgan)]
 
-:blossom: (BEGAN)[BEGAN: Boundary Equilibrium Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1703.10717v4)]
+:blossom: (BEGAN)[BEGAN: Boundary Equilibrium Generative Adversarial Networks] [arXiv][[Paper](http://cn.arxiv.org/pdf/1703.10717v4)][[Code](https://github.com/carpedm20/BEGAN-tensorflow)]
 
-:blossom: (PG-GAN)[Progressive Growing of GANs for Improved Quality, Stability, and Variation] [[Paper](http://cn.arxiv.org/pdf/1710.10196v3)]
+:blossom: (PG-GAN)[Progressive Growing of GANs for Improved Quality, Stability, and Variation] [arXiv][[Paper](http://cn.arxiv.org/pdf/1710.10196v3)][[Code](https://github.com/nashory/pggan-pytorch)]
 
-:blossom: (SNGAN)[Spectral Normalization for Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1802.05957)]
+:blossom: (SNGAN)[Spectral Normalization for Generative Adversarial Networks] [arXiv][[Paper](http://cn.arxiv.org/pdf/1802.05957)][[Code](https://github.com/pfnet-research/sngan_projection)]
 
-:blossom: (DRAGAN)[On Convergence and Stability of GANs] [[Paper](http://cn.arxiv.org/pdf/1705.07215v5)]
+:blossom: (DRAGAN)[On Convergence and Stability of GANs] [arXiv][[Paper](http://cn.arxiv.org/pdf/1705.07215v5)][[Code](https://github.com/jfsantos/dragan-pytorch)]
 
-:blossom: (Relativistic GAN)[The relativistic discriminator: a key element missing from standard GAN] [[Paper](http://cn.arxiv.org/pdf/1807.00734.pdf)]
+:blossom: (Relativistic GAN)[The relativistic discriminator: a key element missing from standard GAN] [arXiv][[Paper](http://cn.arxiv.org/pdf/1807.00734.pdf)][[Code](https://github.com/AlexiaJM/RelativisticGAN)]
 
-:blossom: (cGAN with projection disc)[cGANs with projection discriminator] [[Paper](https://arxiv.org/pdf/1802.05637.pdf)]
+:blossom: (cGAN with projection disc)[cGANs with projection discriminator] [arXiv][[Paper](https://arxiv.org/pdf/1802.05637.pdf)][[Code](https://github.com/pfnet-research/sngan_projection)]
 
-:blossom: (BigGAN)[Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper](https://arxiv.org/pdf/1809.11096.pdf)]
+:blossom: (BigGAN)[Large Scale GAN Training for High Fidelity Natural Image Synthesis] [arXiv][[Paper](https://arxiv.org/pdf/1809.11096.pdf)][[Code]()]
 
 ### Image-to-Image Translation
 :bug: (pix2pix)[Image-to-Image Translation with Conditional Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)]
