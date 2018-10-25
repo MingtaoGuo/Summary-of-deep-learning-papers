@@ -97,25 +97,25 @@ Summarize some interesting paper about computer vision
 :blossom: (BigGAN)[Large Scale GAN Training for High Fidelity Natural Image Synthesis] [arXiv][[Paper](https://arxiv.org/pdf/1809.11096.pdf)][[Code]()]
 
 ### Image-to-Image Translation
-:bug: (pix2pix)[Image-to-Image Translation with Conditional Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)]
+:bug: (pix2pix)[Image-to-Image Translation with Conditional Adversarial Networks] [CVPR 2017][[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)][[Code](https://github.com/phillipi/pix2pix)]
 
-:bug: (pix2pixHD)[High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper](http://cn.arxiv.org/pdf/1711.11585)]
+:bug: (pix2pixHD)[High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [CVPR 2018][[Paper](http://cn.arxiv.org/pdf/1711.11585)][[Code](https://github.com/NVIDIA/pix2pixHD)]
 
-:bug: (CycleGAN)[Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks] [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)]
+:bug: (CycleGAN)[Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks] [ICCV 2017][[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)][[Code](https://github.com/junyanz/CycleGAN)]
 
-:bug: [Unsupervised Attention-guided Image to Image Translation] [[Paper](http://cn.arxiv.org/pdf/1806.02311)]
+:bug: [Unsupervised Attention-guided Image to Image Translation] [arXiv][[Paper](http://cn.arxiv.org/pdf/1806.02311)][[Code](https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation)]
 
-:bug: (DiscoGAN)[Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [[Paper](http://cn.arxiv.org/pdf/1703.05192)]
+:bug: (DiscoGAN)[Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [ICML 2017][[Paper](http://cn.arxiv.org/pdf/1703.05192)][[Code](https://github.com/SKTBrain/DiscoGAN)]
 
-:bug: (UNIT)[Unsupervised Image-to-Image Translation Networks] [[Paper](http://papers.nips.cc/paper/6672-unsupervised-image-to-image-translation-networks.pdf)]
+:bug: (UNIT)[Unsupervised Image-to-Image Translation Networks] [NIPS 2017][[Paper](http://papers.nips.cc/paper/6672-unsupervised-image-to-image-translation-networks.pdf)][[Code](https://github.com/taki0112/UNIT-Tensorflow)]
 
-:bug: (MUNIT)[Multimodal Unsupervised Image-to-Image Translation] [[Paper](https://arxiv.org/pdf/1804.04732.pdf)]
+:bug: (MUNIT)[Multimodal Unsupervised Image-to-Image Translation] [arXiv][[Paper](https://arxiv.org/pdf/1804.04732.pdf)][[Code](https://github.com/NVlabs/MUNIT)]
 
-:bug: (BicycleGAN)[Toward Multimodal Image-to-Image Translation] [[Paper](http://cn.arxiv.org/pdf/1711.11586)]
+:bug: (BicycleGAN)[Toward Multimodal Image-to-Image Translation] [NIPS 2017][[Paper](http://cn.arxiv.org/pdf/1711.11586)][[Code](https://github.com/junyanz/BicycleGAN)]
 
-:bug: (StarGAN)[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper](http://cn.arxiv.org/pdf/1711.09020)]
+:bug: (StarGAN)[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [CVPR 2018][[Paper](http://cn.arxiv.org/pdf/1711.09020)][[Code](https://github.com/taki0112/StarGAN-Tensorflow)]
 
-:bug: (RecycleGAN)[Recycle-GAN: Unsupervised Video Retargeting] [[Paper](http://cn.arxiv.org/pdf/1808.05174v1)]
+:bug: (RecycleGAN)[Recycle-GAN: Unsupervised Video Retargeting] [ECCV 2018][[Paper](http://cn.arxiv.org/pdf/1808.05174v1)][[Code](https://github.com/SunnerLi/RecycleGAN)]
 
 ### Style Transfer
 :whale: (Gatys)[A Neural Algorithm of Artistic Style] [[Paper](http://cn.arxiv.org/pdf/1508.06576)]
