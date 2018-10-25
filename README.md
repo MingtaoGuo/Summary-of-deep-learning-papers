@@ -32,13 +32,13 @@ Summarize some interesting paper about computer vision
 
 :moon: (Batch Normalization)[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift] [ICML][[Paper](http://cn.arxiv.org/pdf/1502.03167v3)]
 
-:moon: (Instance Normalization)[Instance Normalization: The Missing Ingredient for Fast Stylization] [[Paper](http://cn.arxiv.org/pdf/1607.08022v3)]
+:moon: (Instance Normalization)[Instance Normalization: The Missing Ingredient for Fast Stylization] [arXiv][[Paper](http://cn.arxiv.org/pdf/1607.08022v3)][[Code](https://github.com/ryankiros/layer-norm)]
 
-:moon: (Layer Normalization)[Layer Normalization] [[Paper](https://arxiv.org/pdf/1607.06450v1.pdf)]
+:moon: (Layer Normalization)[Layer Normalization] [arXiv][[Paper](https://arxiv.org/pdf/1607.06450v1.pdf)]
 
-:moon: (Group Normalization)[Group Normalization] [[Paper](https://arxiv.org/pdf/1803.08494.pdf)]
+:moon: (Group Normalization)[Group Normalization] [arXiv][[Paper](https://arxiv.org/pdf/1803.08494.pdf)][[Code](https://github.com/shaohua0116/Group-Normalization-Tensorflow)]
 
-:moon: (Switchable Normalization)[Differentiable Learning-to-Normalize via Switchable Normalization] [[Paper](https://arxiv.org/pdf/1806.10779.pdf)]
+:moon: (Switchable Normalization)[Differentiable Learning-to-Normalize via Switchable Normalization] [[Paper](https://arxiv.org/pdf/1806.10779.pdf)][[Code](https://github.com/taki0112/Switchable_Normalization-Tensorflow)]
 
 :moon: (Instance-Batch Normalization)[Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net] [[Paper](https://arxiv.org/pdf/1807.09441.pdf)][[Code](https://github.com/XingangPan/IBN-Net)]
 
@@ -52,7 +52,7 @@ Summarize some interesting paper about computer vision
 
 :star: (eLU)[Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)] [[Paper](http://cn.arxiv.org/pdf/1511.07289v5)]
 
-:star: (SeLU)[Self-Normalizing Neural Networks] [[Paper](http://cn.arxiv.org/pdf/1706.02515)]
+:star: (SeLU)[Self-Normalizing Neural Networks] [[Paper](http://cn.arxiv.org/pdf/1706.02515)][[Code](https://github.com/dannysdeng/selu)]
 
 :star: (PReLU)[Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification] [[Paper](http://cn.arxiv.org/pdf/1502.01852v1)]
 
