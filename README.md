@@ -96,6 +96,8 @@ Summarize some interesting paper about computer vision
 
 :blossom: (BigGAN)[Large Scale GAN Training for High Fidelity Natural Image Synthesis] [arXiv][[Paper](https://arxiv.org/pdf/1809.11096.pdf)][[Code]()]
 
+:blossom: (SAGAN)[Self-Attention Generative Adversarial Networks] [arXiv][[Paper](https://arxiv.org/pdf/1805.08318.pdf)][[Code]()]
+
 ### Image-to-Image Translation
 :bug: (pix2pix)[Image-to-Image Translation with Conditional Adversarial Networks] [CVPR 2017][[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)][[Code](https://github.com/phillipi/pix2pix)]
 
