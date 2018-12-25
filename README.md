@@ -176,6 +176,12 @@ Summarize some interesting paper about computer vision
 :eyes: [Globally and locally consistent image completion] [[Paper](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)]
 
 :eyes: [Generative Image Inpainting with Contextual Attention] [[Paper](http://cn.arxiv.org/pdf/1801.07892v2)]
+### Super Resolution
+:ox: [Image Super-Resolution Using Deep Convolutional Networks] [[Paper](https://arxiv.org/pdf/1501.00092.pdf)]
+
+:ox: [Enhanced Deep Residual Networks for Single Image Super-Resolution] [[Paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf)]
+
+:ox: [Residual Dense Network for Image Super-Resolution] [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1329.pdf)]
 
 
 ## To be continued.
